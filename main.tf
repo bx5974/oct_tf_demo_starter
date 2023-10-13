@@ -18,3 +18,7 @@ output "randint" {
 output "myrandstring" {
 	value = random_string.datagen.result
 }
+
+output "locationout" {
+	value = var.locationout
+}
