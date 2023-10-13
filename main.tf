@@ -20,5 +20,5 @@ output "myrandstring" {
 }
 
 output "locationout" {
-	value = var.locationout
+	value = var.location
 }
